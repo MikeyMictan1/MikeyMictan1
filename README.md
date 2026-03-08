@@ -44,7 +44,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MikeyMictan1&theme=cobalt" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MikeyMictan1&theme=dracula" alt="Activity Graph" />
 </p>
+
+![Mikey's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MikeyMictan1&theme=dracula)
+
+![Mikey's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=MikeyMictan1&show_icons=true&theme=algolia)
+
+![Mikey's Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MikeyMictan1&layout=compact&theme=algolia)
+
 
 ---
