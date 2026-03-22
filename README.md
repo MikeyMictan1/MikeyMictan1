@@ -4,6 +4,7 @@
   <b>Incoming SDE Intern @ Amazon</b> <br>
   <b>Ex SWE Intern @ WMG</b> <br>
   <b>2nd Year Computer Science @ Warwick</b> <br>
+  <b><br>
   <b>Warwick Hackathon Winner 2024 🏆 <br>
   <b>Warwick Game Jam Honorable Mention 2026 🥈</b>
 </p>
