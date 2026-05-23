@@ -21,6 +21,7 @@
 
 ### 🚀 About Me
 
+- Building [isaiprofitable.com](https://isaiprofitable.com/)
 - 🎮 I make games at [Prelude Games Studio](https://prelude-games.itch.io/)
 - 💻 Passionate about Game Dev + Software Engineering
 
