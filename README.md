@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Michael Tan-Sikorski!</h1>
 
 <p align="center">
-  <b>Incoming SDE Intern @ Amazon</b> <br>
+  <b>SDE Intern @ Amazon</b> <br>
   <b>Ex SWE Intern @ WMG</b> <br>
   <b>2nd Year Computer Science @ Warwick</b> <br>
   <b><br>
